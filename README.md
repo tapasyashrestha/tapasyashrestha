@@ -63,29 +63,6 @@ Manipal University Jaipur · 2024 – 2028
 - PyTorch  
 - CNNs  
 
----
-
-## 🚀 Projects
-
-### 🩺 SEHAI – AI-Powered Rural Healthcare Platform
-
-- Built an XGBoost classifier predicting 42 diseases from 133 symptoms and fine-tuned ResNet18 CNNs for eye and skin disease classification.
-- Developed a 3-tier role-based healthcare web app digitising India's public healthcare referral chain with persistent patient records.
-- Integrated multilingual voice-enabled symptom capture using the Web Speech API for low-literacy healthcare workers.
-
-**Tech Stack:** Python, FastAPI, XGBoost, PyTorch, React (TypeScript), PostgreSQL
-
----
-
-
-
-### 🗂️ Student Database Management System
-
-- Designed a database-driven system for managing student records efficiently.
-- Implemented CRUD operations using SQL.
-- Developed backend logic in Python for processing and data handling.
-
-**Tech Stack:** Python, SQL
 
 ---
 
