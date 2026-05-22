@@ -83,15 +83,6 @@ Manipal University Jaipur · 2024 – 2028
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -105,11 +96,11 @@ Manipal University Jaipur · 2024 – 2028
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/tapasya-shrestha-8b37b9320?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/tapasyashrestha">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
