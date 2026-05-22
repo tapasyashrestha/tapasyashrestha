@@ -1,3 +1,15 @@
+<h1 align="center">Hey 👋, I'm Tapasya Shrestha</h1>
+
+<h3 align="center">
+Computer Science Engineering Student • Aspiring Software Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Learning+Full+Stack+Development;Exploring+Machine+Learning+and+AI;Building+Projects+and+Solving+Problems;Open+to+Hackathons+and+Internships" />
+</p>
+
+---
+
 # 💫 About Me:
 I'm a Computer Science Engineering student at Manipal University Jaipur passionate about software development, machine learning, and building real-world applications.<br><br>I enjoy learning by building projects, solving problems, and exploring technologies across web development and AI.<br><br>🌱 Currently learning Machine Learning & Full Stack Development<br>🤖 Exploring XGBoost, PyTorch, and CNNs<br>💻 Building projects using React, FastAPI, and PostgreSQL<br>🚀 Interested in hackathons, internships, and open source<br>📚 Learning core CS concepts including DBMS, OOP, and REST APIs
 
@@ -12,6 +24,5 @@ I'm a Computer Science Engineering student at Manipal University Jaipur passiona
 ![](https://streak-stats.demolab.com/?user=tapasyashrestha&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tapasyashrestha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tapasyashrestha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
